@@ -1,0 +1,46 @@
+id,answer,question_type,grade,choices,question,nhan_biet,thong_hieu,van_dung,van_dung_cao,dang_cau_hoi,GPT_20B_response,GPT_20B_answer
+history-2022-302-35,A,multiple_choice,12.0,"['Có sự linh hoạt, sáng tạo trong phương án tác chiến.', 'Đánh bại cuộc tấn công của Pháp vào cơ quan đầu não kháng chiến.', 'Có ý nghĩa quyết định đến thắng lợi cuối cùng trên mặt trận ngoại giáo.', 'Sử dụng cách đánh công kiên vào tập đoàn cứ điểm.']",Chiến dịch Biên giới thu-đông (1950) và chiến dịch Điện Biên Phủ (1954) ở Việt Nam có điểm giống nhau nào sau đây?,,,1.0,,"So sánh, đối chiếu","analysisWe need to answer the question: ""Chiến dịch Biên giới thu-đông (1950) và chiến dịch Điện Biên Phủ (1954) ở Việt Nam có điểm giống nhau nào sau đây?"" Options: A. Có sự linh hoạt, sáng tạo trong phương án tác chiến. B. Đánh bại cuộc tấn công của Pháp vào cơ quan đầu não kháng chiến. C. Có ý nghĩa quyết định đến thắng lợi cuối cùng trên mặt trận ngoại giáo. D. Sử dụng cách đánh công kiên vào tập đoàn cứ điểm.
+
+We need to choose one correct answer. Let's analyze.
+
+Chiến dịch Biên giới thu-đông (1950) refers to the ""Biên giới thu-đông"" campaign? Actually ""Biên giới thu-đông"" might refer to the ""Biên giới Thu Đông"" campaign? I'm not sure. But likely refers to the ""Biên giới Thu Đông""",A
+history-2022-304-37,A,multiple_choice,12.0,"['Sử dụng đòn tiến công chiến lược của lực lượng chính quy.', 'Có ý nghĩa quyết định đến thắng lợi cuối cùng trên mặt trận ngoại giao.', 'Đánh bại cuộc tấn công của Pháp vào cơ quan đầu não kháng chiến.', 'Sử dụng phương pháp đánh công kiên vào tập đoàn cứ điểm.']",Chiến dịch Biên giới thu-đông (1950) và chiến dịch Điện Biên Phủ (1954) ở Việt Nam có điểm giống nhau nào sau đây?,,,1.0,,"So sánh, đối chiếu","analysisWe need to answer the question: ""Chiến dịch Biên giới thu-đông (1950) và chiến dịch Điện Biên Phủ (1954) ở Việt Nam có điểm giống nhau nào sau đây?"" Options: A. Sử dụng đòn tiến công chiến lược của lực lượng chính quy. B. Có ý nghĩa quyết định đến thắng lợi cuối cùng trên mặt trận ngoại giao. C. Đánh bại cuộc tấn công của Pháp vào cơ quan đầu não kháng chiến. D. Sử dụng phương pháp đánh công kiên vào tập đoàn cứ điểm.
+
+We need to choose one correct answer. Let's analyze.
+
+Chiến dịch Biên giới thu-đông (1950) refers to the ""Biên giới thu-đông"" campaign? Actually ""Biên giới thu-đông"" might refer to the ""Biên giới Thu Đông"" campaign? I'm not sure. But likely refers to the ""Biên",A
+history-2020-304-21,A,multiple_choice,12.0,"['sự bất lực của quân đội Sài Gòn', 'nhiệm vụ ""đánh cho Mĩ cút"" đã hoàn thành', 'khả năng can thiệp trở lại của Mĩ rất cao', 'quân đội Sài Gòn đã tan rã hoàn toàn']",Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy,,,1.0,,Đánh giá,"analysisWe need to answer the question: ""Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy"" with options A-D. We must output answer in format: [X] then explanation. Must not repeat question or options. Must give answer first. So answer: The victory shows the ability of Vietnamese forces to defeat the South Vietnamese army, demonstrating the effectiveness of the war strategy, not necessarily the other options. Option B: ""nhiệm vụ 'đánh cho Mĩ cút' đã hoàn thành"" is about the mission to push out the US. But the victory at Phuoc Long was a major victory that demonstrated the strength of the North Vietnamese forces and the ability to defeat the South Vietnamese army, but also the US had already withdrawn. The question: ""Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy"" The correct answer likely is B:",D
+history-2020-301-32,A,multiple_choice,12.0,"['khả năng thắng lớn của quân giải phóng.', 'quân đội Sài Gòn đã tan rã hoàn toàn.', 'khả năng can thiệp trở lại của Mĩ rất cao.', 'nhiệm vụ “đánh cho Mĩ cút” đã hoàn thành.']",Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy,,,1.0,,Đánh giá,"analysisWe need to answer the question: ""Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy"" with options A-D. We must output answer in format: [X] then explanation. Must not repeat question or options. Must give answer first. So answer: The victory shows the capability of the liberation army to win large battles. Option A. So [A]. Then explanation.assistantfinalAnswer: [A]  
+Lập luận:  
+- Chiến thắng Phước Long là trận đánh lớn, nơi Quân đội Nhân dân Việt Nam đã đánh bại lực lượng Mỹ và Quân đội Sài Gòn, chứng minh sức mạnh và khả năng chiến đấu của quân giải phóng.  
+- Không có dấu hiệu của việc quân đội Sài Gòn tan rã hoàn toàn (đó là kết quả của nhiều trận đánh khác).  
+- Mức độ can thiệp của",A
+history-2020-302-23,A,multiple_choice,12.0,"['sức mạnh to lớn của quân giải phóng.', 'quân đội Sài Gòn đã tan rã hoàn toàn.', 'nhiệm vụ ""đánh cho Mĩ cút"" đã hoàn thành.', 'khả năng can thiệp trở lại của Mĩ rất cao.']",Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy,,,1.0,,Đánh giá,"analysisWe need to answer the question: ""Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy"" with options A-D. We must output answer in format: [X] then explanation. According to guidelines: first output answer, then explanation. Must not repeat question or options. Must be Vietnamese. Let's analyze.
+
+Chiến thắng Phước Long (January 1975) was the first major victory of the Vietnamese People's Army (VPA) in the final phase of the Vietnam War. It demonstrated the strength of the VPA, the ability to defeat the South Vietnamese forces, and the capability of the North to conduct offensive operations. It also showed that the South Vietnamese army was weak and that the US had limited involvement. The options:
+
+A. sức mạnh to lớn của quân giải phóng. (the great strength of the liberation army)
+B. quân đội Sài Gòn đã tan rã hoàn toàn. (Sa",D
+history-2020-303-25,B,multiple_choice,12.0,"['quân đội Sài Gòn đã tan rã hoàn toàn.', 'sự suy yếu của quân đội Sài Gòn.', 'khả năng can thiệp trở lại của Mĩ rất cao.', 'nhiệm vụ “đánh cho Mĩ cút” đã hoàn thành.']",Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy,,,1.0,,Đánh giá,"analysisWe need to answer the question: ""Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy"" with options A-D. We must output answer in format: [X] then explanation. Must not repeat question or options. Must give answer first. So answer likely B: sự suy yếu của quân đội Sài Gòn. Let's confirm: Phước Long was first major victory of North Vietnam in 1975, showing weakening of South Vietnamese army. So answer B. Provide explanation.assistantfinal[B]  
+Lập luận:  
+- Chiến thắng Phước Long là trận đánh quan trọng đầu tiên của Quân đội Nhân dân Việt Nam trong chiến dịch 1975, cho thấy sức mạnh ngày càng tăng của lực lượng miền Bắc.  
+- Kết quả này phản ánh sự suy yếu, mất tinh thần và tổ chức của Quân đội Nhân dân Cộng hòa (qu",B
+history-2020-303-11,D,multiple_choice,12.0,"['làm thất bại chiến tranh cục bộ.', 'làm thất bại chiến tranh tổng lực.', 'làm thất bại chiến tranh đặc biệt.', 'bảo vệ an toàn cơ quan đầu não kháng chiến.']",Chiến thắng Việt Bắc thu-đông năm 1947 của quân dân Việt Nam đã,,1.0,,,Kết quả / Ý nghĩa / Vai trò,"analysisWe need to answer the question: ""Chiến thắng Việt Bắc thu-đông năm 1947 của quân dân Việt Nam đã"" with options A-D. We must output answer in format: [X] then explanation. Must not repeat question or options. Must give answer first. Let's analyze.
+
+Question: ""Chiến thắng Việt Bắc thu-đông năm 1947 của quân dân Việt Nam đã"" meaning ""The victory of Việt Bắc in the spring-autumn 1947 by the Vietnamese army and people has ...""
+
+Options:
+
+A. làm thất bại chiến tranh cục bộ. (caused the defeat of local war? maybe ""caused the defeat of the local war"" unclear)
+B. làm thất bại chiến tranh tổng lực. (caused the defeat of the total war)
+C. làm thất bại chiến tranh đặc biệt. (caused the defeat of special war)
+D. bảo vệ an toàn cơ quan đầu não kháng",D
+history-2020-301-1,D,multiple_choice,12.0,"['làm thất bại chiến tranh tổng lực.', 'làm thất bại chiến tranh cục bộ.', 'làm thất bại chiến tranh đặc biệt.', 'cho thấy bộ đội chủ lực ngày càng trưởng thành.']",Chiến thắng Việt Bắc thu-đông năm 1947 của quân dân Việt Nam đã,,1.0,,,Kết quả / Ý nghĩa / Vai trò,"analysisWe need to answer the question: ""Chiến thắng Việt Bắc thu-đông năm 1947 của quân dân Việt Nam đã"" with options A-D. We must output answer in format: [X] then explanation. Must not repeat question or options. Must give answer first. Let's analyze.
+
+Question: ""Chiến thắng Việt Bắc thu-đông năm 1947 của quân dân Việt Nam đã"" meaning ""The victory of Việt Bắc in the spring-autumn 1947 by the Vietnamese army and people has..."" Options:
+
+A. làm thất bại chiến tranh tổng lực. (caused the defeat of total war? maybe defeat of total war? Actually ""làm thất bại chiến tranh tổng lực"" means ""caused the defeat of the total war"" maybe meaning the war of total war? Not sure.
+
+B. làm thất bại chiến tranh cục bộ. (caused the defeat of local war)
+
+C. làm thất bại chiến",D

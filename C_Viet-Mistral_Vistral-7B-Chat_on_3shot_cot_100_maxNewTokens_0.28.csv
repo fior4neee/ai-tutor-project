@@ -1,0 +1,224 @@
+id,answer,question_type,grade,choices,question,nhan_biet,thong_hieu,van_dung,van_dung_cao,dang_cau_hoi,Viet-Mistral/Vistral-7B-Chat_response,Viet-Mistral/Vistral-7B-Chat_answer
+history-2022-302-35,A,multiple_choice,12.0,"['Có sự linh hoạt, sáng tạo trong phương án tác chiến.', 'Đánh bại cuộc tấn công của Pháp vào cơ quan đầu não kháng chiến.', 'Có ý nghĩa quyết định đến thắng lợi cuối cùng trên mặt trận ngoại giáo.', 'Sử dụng cách đánh công kiên vào tập đoàn cứ điểm.']",Chiến dịch Biên giới thu-đông (1950) và chiến dịch Điện Biên Phủ (1954) ở Việt Nam có điểm giống nhau nào sau đây?,,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Chiến dịch Biên giới thu-đông (1950) và chiến dịch Điện Biên Phủ (1954) đều là những chiến dịch lớn, có ý nghĩa quyết định trong cuộc kháng chiến chống Pháp.
+    - Cả hai chiến dịch đều thể hiện sự linh hoạt, sáng tạo trong phương án tác chiến.
+    => Đáp án đúng là A. ",A
+history-2022-304-37,A,multiple_choice,12.0,"['Sử dụng đòn tiến công chiến lược của lực lượng chính quy.', 'Có ý nghĩa quyết định đến thắng lợi cuối cùng trên mặt trận ngoại giao.', 'Đánh bại cuộc tấn công của Pháp vào cơ quan đầu não kháng chiến.', 'Sử dụng phương pháp đánh công kiên vào tập đoàn cứ điểm.']",Chiến dịch Biên giới thu-đông (1950) và chiến dịch Điện Biên Phủ (1954) ở Việt Nam có điểm giống nhau nào sau đây?,,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Chiến dịch Biên giới thu-đông (1950) và chiến dịch Điện Biên Phủ (1954) đều là những chiến dịch lớn, có ý nghĩa quyết định trong cuộc kháng chiến chống Pháp.
+    - Cả hai chiến dịch đều sử dụng phương pháp đánh công kiên vào tập đoàn cứ điểm.
+    => Đáp án đúng là D. ",D
+history-2020-304-21,A,multiple_choice,12.0,"['sự bất lực của quân đội Sài Gòn', 'nhiệm vụ ""đánh cho Mĩ cút"" đã hoàn thành', 'khả năng can thiệp trở lại của Mĩ rất cao', 'quân đội Sài Gòn đã tan rã hoàn toàn']",Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy,,,1.0,,Đánh giá,"   Lập luận:
+    - Chiến thắng Phước Long cho thấy sự bất lực của quân đội Sài Gòn trong việc chống đỡ các cuộc tấn công của quân Giải phóng.
+    - Chiến thắng này cũng cho thấy khả năng can thiệp trở lại của Mĩ rất cao.
+    => Đáp án đúng là C. ",C
+history-2020-301-32,A,multiple_choice,12.0,"['khả năng thắng lớn của quân giải phóng.', 'quân đội Sài Gòn đã tan rã hoàn toàn.', 'khả năng can thiệp trở lại của Mĩ rất cao.', 'nhiệm vụ “đánh cho Mĩ cút” đã hoàn thành.']",Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy,,,1.0,,Đánh giá,"   Lập luận:
+    - Chiến thắng Phước Long đã tạo tiền đề cho chiến dịch Tây Nguyên và chiến dịch Hồ Chí Minh sau đó.
+    - Chiến thắng này cho thấy khả năng thắng lớn của quân giải phóng và sự tan rã của quân đội Sài Gòn.
+    => Đáp án đúng là B. ",B
+history-2020-302-23,A,multiple_choice,12.0,"['sức mạnh to lớn của quân giải phóng.', 'quân đội Sài Gòn đã tan rã hoàn toàn.', 'nhiệm vụ ""đánh cho Mĩ cút"" đã hoàn thành.', 'khả năng can thiệp trở lại của Mĩ rất cao.']",Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy,,,1.0,,Đánh giá,"   Lập luận:
+    - Chiến thắng Phước Long là một bước thử nghiệm quan trọng cho chiến lược ""đánh nhanh, thắng nhanh"" của quân dân Việt Nam.
+    - Chiến thắng này cho thấy khả năng can thiệp trở lại của Mĩ rất cao.
+    => Đáp án đúng là D. ",D
+history-2020-303-25,B,multiple_choice,12.0,"['quân đội Sài Gòn đã tan rã hoàn toàn.', 'sự suy yếu của quân đội Sài Gòn.', 'khả năng can thiệp trở lại của Mĩ rất cao.', 'nhiệm vụ “đánh cho Mĩ cút” đã hoàn thành.']",Chiến thắng Phước Long (tháng 1-1975) của quân dân Việt Nam cho thấy,,,1.0,,Đánh giá,"   Lập luận:
+    - Chiến thắng Phước Long đã làm cho quân đội Sài Gòn suy yếu, tạo điều kiện cho quân đội Việt Nam tiến lên.
+    - Chiến thắng này cũng làm cho khả năng can thiệp trở lại của Mĩ giảm đi.
+    => Đáp án đúng là B. ",B
+history-2020-303-11,D,multiple_choice,12.0,"['làm thất bại chiến tranh cục bộ.', 'làm thất bại chiến tranh tổng lực.', 'làm thất bại chiến tranh đặc biệt.', 'bảo vệ an toàn cơ quan đầu não kháng chiến.']",Chiến thắng Việt Bắc thu-đông năm 1947 của quân dân Việt Nam đã,,1.0,,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Chiến thắng Việt Bắc thu-đông năm 1947 là một chiến thắng quan trọng của quân dân Việt Nam trong cuộc kháng chiến chống Pháp.
+    - Chiến thắng này đã bảo vệ an toàn cơ quan đầu não kháng chiến, ngăn chặn sự tấn công của quân Pháp vào căn cứ địa Việt Bắc.
+    => Đáp án đúng là D. ",C
+history-2020-301-1,D,multiple_choice,12.0,"['làm thất bại chiến tranh tổng lực.', 'làm thất bại chiến tranh cục bộ.', 'làm thất bại chiến tranh đặc biệt.', 'cho thấy bộ đội chủ lực ngày càng trưởng thành.']",Chiến thắng Việt Bắc thu-đông năm 1947 của quân dân Việt Nam đã,,1.0,,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Chiến thắng Việt Bắc thu-đông năm 1947 là một thắng lợi quan trọng của quân dân Việt Nam trong cuộc kháng chiến chống Pháp.
+    - Chiến thắng này đã làm thất bại chiến lược ""đánh nhanh, thắng nhanh"" của Pháp, buộc họ phải chuyển sang chiến lược ""đánh lâu dài"" và ""dùng người Việt đánh người Việt, lấy chiến tranh nuôi chiến tranh"".
+    => Đáp án đúng là A",
+history-2022-301-34,B,multiple_choice,12.0,"['sức mạnh của quân chủ lực khi tấn công vào tổ chức phòng ngự mạnh của đối phương.', 'vai trò của trận quyết chiến có ý nghĩa xoay chuyển cục diện chiến tranh.', 'giá trị của trận quyết chiến chiến lược đánh dấu cuộc kháng chiến kết thúc thắng lợi.', 'ý nghĩa của trận phân công lớn nhất trong cuộc chiến tranh bảo vệ Tổ quốc.']","Chiến thắng Điện Biên Phủ (1954) và thắng lợi của trận “Điện Biên Phủ trên không"" (1972) ở Việt Nam đều cho thấy:",,,,1.0,"So sánh, đối chiếu","   Lập luận:
+    - Điện Biên Phủ (1954) là trận đánh lớn nhất trong Chiến tranh Đông Dương, quyết định sự thất bại của Pháp và can thiệp của Mỹ, dẫn đến Hiệp định Genève.
+    - ""Điện Biên Phủ trên không"" (1972) là trận đánh lớn nhất trong Chiến tranh Việt Nam, thể hiện sức mạnh quân sự của Việt Nam và sự thất bại của Mỹ trong chiến lược ném bom chiến lược.
+    =>",C
+history-2022-303-34,B,multiple_choice,12.0,"['giá trị của trận quyết chiến chiến lược đánh dấu kháng chiến kết thúc thắng lợi', 'vai trò quyết định của mặt trận quân sự trong mối quan hệ với chính trị và ngoại giao.', 'ý nghĩa chiến lược của trận phản công lớn nhất trong cuộc chiến tranh bảo vệ Tổ quốc', 'sức mạnh của quân chủ lực khi tấn công vào tổ chức phòng ngự mạnh của đối phương']",Chiến thắng Điện Biên Phủ (1954) và thắng lợi của trận “Điện Biên Phủ trên không” (1972) ở Việt Nam đều cho thấy,,,,1.0,Đánh giá,"   Lập luận:
+    - Chiến thắng Điện Biên Phủ (1954) và thắng lợi của trận “Điện Biên Phủ trên không” (1972) đều là những trận đánh lớn, quyết định trong cuộc chiến tranh bảo vệ Tổ quốc.
+    - Cả hai trận đánh đều thể hiện sức mạnh của quân chủ lực khi tấn công vào tổ chức phòng ngự mạnh của đối phương.
+    => Đáp án đúng là D. ",C
+history-2020-303-3,D,multiple_choice,12.0,"['Rove.', 'Bôlae.', 'Đờ Lát đơ Tátxinhi.', 'Nava.']",Chiến thắng Điện Biên Phủ năm 1954 của quân dân Việt Nam đã làm phá sản hoàn toàn kế hoạch nào sau đây của thực dân Pháp?,1.0,,,,Trắc Nghiệm/Nội dung Ngắn,"   Lập luận:
+    - Kế hoạch Rove là kế hoạch của Pháp sau thất bại ở chiến dịch Thu Đông 1950.
+    - Kế hoạch Đờ Lát đơ Tátxinhi là kế hoạch của Pháp sau thất bại ở chiến dịch Biên giới Thu Đông 1950.
+    - Chiến thắng Điện Biên Phủ năm 1954 đã làm phá sản hoàn toàn kế hoạch Đờ Lát đơ Tátxinhi của Pháp.
+    =>",
+history-2022-304-40,A,multiple_choice,12.0,"['Cũng cố quyết tâm chiến lược giải phóng hoàn toàn miền Nam.', 'Chuyển cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công.', 'Lần đầu khẳng định bạo lực là con đường giải phóng miền Nam.', 'Buộc Mĩ xuống thang chiến tranh và chấp nhận đàm phán tại Hội nghị Pari.']",Chiến thắng Đường 14-Phước Long (đầu năm 1975) có tác động nào sau đây đối với tiến trình cách mạng miền Nam Việt Nam?,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Chiến thắng Đường 14-Phước Long là trận đánh lớn đầu tiên của Quân Giải phóng miền Nam Việt Nam trong năm 1975.
+    - Chiến thắng này đã tạo ra bước ngoặt quan trọng trong cuộc chiến, tạo đà cho các chiến dịch tiếp theo.
+    - Chiến thắng Đường 14-Phước Long đã góp phần vào việc chuyển cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công",
+history-2024-303-26,D,multiple_choice,12.0,"['Tác động từ sự tan rã của trật tự thế giới hai cực Ianta.', 'Sự xuất hiện, hoạt động của Tổ chức Hiệp ước Vácsava.', 'Sự xuất hiện của Tổ chức Hiệp ước Bắc Đại Tây Dương.', 'Mâu thuẫn giữa các nước đế quốc về vấn đề thuộc địa.']",Chiến tranh thế giới thứ hai (1939 – 1945) bùng nổ là do nguyên nhân nào sau đây?,,1.0,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - Chiến tranh thế giới thứ hai bùng nổ do mâu thuẫn giữa các nước đế quốc về vấn đề thuộc địa.
+    - Các phương án khác liên quan đến trật tự thế giới sau chiến tranh, không phải nguyên nhân trực tiếp.
+    => Đáp án đúng là D. ",A
+history-2024-304-28,D,multiple_choice,12.0,"['Những tác động từ sự tan rã của trật tự thế giới hai cực Ianta.', 'Mĩ và Liên Xô đã tuyên bố chấm dứt Chiến tranh lạnh.', 'Mĩ giúp các nước Tây Âu thực hiện “Kế hoạch Mácsan"".', 'Tác động của cuộc khủng hoảng kinh tế thế giới 1929 – 1933.']",Chiến tranh thế giới thứ hai (1939 – 1945) bùng nổ là do nguyên nhân nào sau đây?,,1.0,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - Chiến tranh thế giới thứ hai bùng nổ do nhiều nguyên nhân, trong đó có cuộc khủng hoảng kinh tế thế giới 1929 – 1933.
+    - Cuộc khủng hoảng kinh tế đã làm gia tăng căng thẳng giữa các nước tư bản, dẫn đến sự hình thành các khối quân sự đối địch nhau.
+    => Đáp án đúng là D. ",D
+history-2020-304-5,B,multiple_choice,12.0,"['Cao Bằng.', 'Điện Biên Phủ.', 'Đông Khê.', 'Thất Khê.']","Cuối năm 1953, thực dân Pháp chọn địa bàn nào sau đây để xây dựng thành tập đoàn cứ điểm mạnh nhất Đông Dương?",1.0,,,,Trắc Nghiệm/Nội dung Ngắn,"   Lập luận:
+    - Điện Biên Phủ là một thung lũng lòng chảo rộng lớn, có vị trí chiến lược quan trọng.
+    - Pháp xây dựng Điện Biên Phủ thành tập đoàn cứ điểm mạnh nhất Đông Dương với mục tiêu ngăn chặn quân chủ lực Việt Minh, bảo vệ Tây Bắc và Thượng Lào.
+    => Đáp án đúng là B. ",B
+history-2023-303-29,D,multiple_choice,12.0,"['Đã mở ra một kỉ nguyên mới trong lịch sử nước Nga.', 'Lật đổ Chính phủ tư sản lâm thời.', 'Đưa nước Nga chuyển sang chế độ xã hội chủ nghĩa.', 'Lật đổ chế độ quân chủ chuyên chế.']",Cuộc Cách mạng tháng Hai năm 1917 ở nước Nga đã đạt được kết quả nào sau đây?,,1.0,,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cách mạng tháng Hai năm 1917 ở Nga là cuộc cách mạng dân chủ tư sản, lật đổ chế độ quân chủ chuyên chế.
+    - Kết quả của cuộc cách mạng này là lật đổ chế độ quân chủ chuyên chế, không phải chế độ xã hội chủ nghĩa.
+    => Đáp án đúng là D. ",A
+history-2020-304-25,A,multiple_choice,12.0,"['""xuống thang"" chiến tranh trên cả hai miền Nam-Bắc Việt Nam', '""xuống thang” chiến tranh và kí kết Hiệp định Pari về Việt Nam', 'tuyên bố “Mĩ hóa"" trở lại cuộc chiến tranh xâm lược Việt Nam', 'ngừng hẳn viện trợ quân sự cho chính quyền và quân đội Sài Gòn']",Cuộc Tổng tiến công và nổi dậy Mậu Thân năm 1968 của quân dân Việt Nam đã buộc chính quyền Mĩ phải,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Mậu Thân 1968 là một đòn giáng mạnh vào chiến lược chiến tranh của Mĩ, buộc Mĩ phải thay đổi chiến lược.
+    - Mĩ buộc phải ""xuống thang"" chiến tranh và kí kết Hiệp định Pari về Việt Nam.
+    => Đáp án đúng là B. ",C
+history-2020-302-30,C,multiple_choice,12.0,"['ngừng hẳn viện trợ quân sự cho chính quyền và quân đội Sài Gòn.', 'tuyên bố ""Mĩ hóa"" trở lại cuộc chiến tranh xâm lược Việt Nam.', '""xuống thang"" chiến tranh và chấp nhận đến đàm phán ở Pari.', '""xuống thang"" chiến tranh và kí kết Hiệp định Pari về Việt Nam.']",Cuộc Tổng tiến công và nổi dậy Mậu Thân năm 1968 của quân dân Việt Nam đã buộc chính quyền Mĩ phải,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cuộc Tổng tiến công và nổi dậy Mậu Thân năm 1968 đã gây bất ngờ lớn cho quân đội Mĩ và chính quyền Sài Gòn.
+    - Cuộc tiến công đã làm suy yếu đáng kể quân đội Mĩ và chính quyền Sài Gòn, buộc Mĩ phải thay đổi chiến lược.
+    - Mĩ buộc phải ""xuống thang"" chiến tranh và chấp nhận đến đàm phán ở Pari.
+    => Đáp án đúng là",C
+history-2020-303-23,B,multiple_choice,12.0,"['ngừng hẳn viện trợ quân sự cho chính quyền và quân đội Sài Gòn.', '“xuống thang” chiến tranh trên cả hai miền Nam-Bắc Việt Nam.', '“xuống thang” chiến tranh và kí kết Hiệp định Pari về Việt Nam.', 'tuyên bố “Mĩ hóa” trở lại cuộc chiến tranh xâm lược Việt Nam.']",Cuộc Tổng tiến công và nổi dậy Mậu Thân năm 1968 của quân dân Việt Nam đã buộc chính quyền Mĩ phải,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Mậu Thân 1968 là một đòn giáng mạnh vào chiến lược chiến tranh của Mĩ.
+    - Sau Mậu Thân, Mĩ buộc phải thay đổi chiến lược, chuyển từ chiến lược “chiến tranh cục bộ” sang “Việt Nam hóa chiến tranh”.
+    => Đáp án đúng là C. ",C
+history-2020-301-23,B,multiple_choice,12.0,"['“xuống thang” chiến tranh và kí kết Hiệp định Pari về Việt Nam.', '“xuống thang” chiến tranh và chấp nhận đến đàm phán ở Pari.', 'tuyên bố “Mĩ hóa” trở lại cuộc chiến tranh xâm lược Việt Nam.', 'ngừng hẳn viện trợ quân sự cho chính quyền và quân đội Sài Gòn.']",Cuộc Tổng tiến công và nổi dậy Mậu Thân năm 1968 của quân dân Việt Nam đã buộc chính quyền Mĩ phải,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cuộc Tổng tiến công và nổi dậy Mậu Thân năm 1968 đã gây bất ngờ lớn cho quân đội Mĩ và chính quyền Sài Gòn.
+    - Cuộc tiến công đã làm suy yếu đáng kể quân đội Mĩ và chính quyền Sài Gòn, buộc Mĩ phải thay đổi chiến lược.
+    - Hiệp định Pari về Việt Nam được kí kết sau đó, buộc Mĩ phải rút quân khỏi Việt Nam.
+    => Đáp án",C
+history-2020-304-38,D,multiple_choice,12.0,"['Tạo điều kiện cho giai cấp công nhân ra đời.', 'Tạo cơ sở cho khuynh hướng tư sản xuất hiện.', 'Quan hệ sản xuất phong kiến bị xóa bỏ hoàn toàn.', 'Cơ cấu giai cấp chuyển biến sâu sắc hơn.']",Cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương (1919-1929) có tác động nào sau đây đến Việt Nam?,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương (1919-1929) đã có tác động sâu sắc đến xã hội Việt Nam.
+    - Giai cấp công nhân và tư sản bắt đầu xuất hiện.
+    => Đáp án đúng là B. ",B
+history-2020-303-37,B,multiple_choice,12.0,"['Tạo cơ sở cho khuynh hướng tư sản xuất hiện.', 'Cơ cấu ngành kinh tế chuyển biến rõ nét hơn.', 'Tạo điều kiện cho giai cấp công nhân ra đời.', 'Quan hệ sản xuất phong kiến bị xóa bỏ hoàn toàn.']",Cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương (1919-1929) có tác động nào sau đây đến Việt Nam?,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cuộc khai thác thuộc địa lần thứ hai của Pháp đã tạo điều kiện cho giai cấp công nhân ra đời.
+    - Giai cấp công nhân là sản phẩm của nền kinh tế tư bản chủ nghĩa, được hình thành trong quá trình phát triển của nền sản xuất tư bản chủ nghĩa.
+    => Đáp án đúng là C. ",A
+history-2020-301-38,D,multiple_choice,12.0,"['Tạo cơ sở cho khuynh hướng tư sản xuất hiện.', 'Tạo điều kiện cho giai cấp công nhân ra đời.', 'Quan hệ sản xuất phong kiến bị xóa bỏ hoàn toàn.', 'Cơ cấu xã hội chuyển biến sâu sắc hơn.']",Cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương (1919-1929) có tác động nào sau đây đến Việt Nam?,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương (1919-1929) đã có tác động sâu sắc đến xã hội Việt Nam.
+    - Giai cấp công nhân bắt đầu hình thành và phát triển, tạo điều kiện cho giai cấp công nhân ra đời.
+    => Đáp án đúng là B. ",B
+history-2024-304-17,B,multiple_choice,12.0,"['Chủ nô.', 'Công nhân.', 'Nô lệ.', 'Nông dân.']",Cuộc khai thác thuộc địa lần thứ nhất (1897 – 1914) của thực dân Pháp ở Việt Nam dẫn đến sự ra đời của giai cấp nào sau đây?,1.0,,,,Trắc Nghiệm/Nội dung Ngắn,"   Lập luận:
+    - Cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp ở Việt Nam dẫn đến sự ra đời của giai cấp công nhân.
+    - Giai cấp công nhân là tầng lớp xã hội mới, được hình thành từ quá trình công nghiệp hóa và đô thị hóa.
+    => Đáp án đúng là B. ",A
+history-2021-304-39,D,multiple_choice,12.0,"['Là các cuộc chiến tranh giải phóng dân tộc và bảo vệ Tổ quốc.', 'Có sự kết hợp chặt chẽ giữa hậu phương và tiền tuyên.', 'Từ khởi nghĩa từng phần phát triển lên chiến tranh cách mạng.', 'Có hình thức khởi nghĩa giành chính quyền của quần chúng.']","Cuộc kháng chiến chống Mĩ, cứu nước (1954-1975) và cuộc vận động giải phóng dân tộc (1939-1945) ở Việt Nam có điểm giống nhau nào sau đây?",,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Cả hai cuộc kháng chiến đều nhằm mục tiêu giải phóng dân tộc, bảo vệ Tổ quốc.
+    - Cả hai cuộc kháng chiến đều có sự kết hợp chặt chẽ giữa hậu phương và tiền tuyến.
+    - Cả hai cuộc kháng chiến đều từ khởi nghĩa từng phần phát triển lên chiến tranh cách mạng.
+    => Đáp án đúng là A và B. ",C
+history-2021-301-31,C,multiple_choice,12.0,"['Có sự kết hợp chặt chẽ giữa hậu phương và tiền tuyến', 'Là các cuộc chiến tranh giải phóng dân tộc và bảo vệ Tổ quốc.', 'Nằm trong tiến trình cách mạng dân tộc dân chủ nhân dân.', 'Từ khởi nghĩa từng phần phát triển lên chiến tranh cách mạng.']","Cuộc kháng chiến chống Mĩ, cứu nước (1954-1975) và cuộc vận động giải phóng dân tộc (1939-1945) ở Việt Nam có điểm giống nhau nào sau đây?",,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Cả hai cuộc kháng chiến đều nhằm mục tiêu giải phóng dân tộc và bảo vệ Tổ quốc.
+    - Cả hai cuộc kháng chiến đều có sự kết hợp chặt chẽ giữa hậu phương và tiền tuyến.
+    - Cả hai cuộc kháng chiến đều nằm trong tiến trình cách mạng dân tộc dân chủ nhân dân.
+    => Đáp án đúng là B. ",C
+history-2021-303-39,B,multiple_choice,12.0,"['Từ khởi nghĩa từng phần phát triển lên chiến tranh cách mạng.', 'Có sự kết hợp hai địa bàn chiến lược nông thôn và thành thị.', 'Có sự kết hợp chặt chẽ giữa hậu phương và tiền tuyến.', 'Là các cuộc chiến tranh giải phóng dân tộc và bảo vệ Tổ quốc.']","Cuộc kháng chiến chống Mĩ, cứu nước (1954-1975) và cuộc vận động giải phóng dân tộc (1939-1945) ở Việt Nam có điểm giống nhau nào sau đây?",,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Cả hai cuộc kháng chiến đều có sự kết hợp chặt chẽ giữa hậu phương và tiền tuyến.
+    - Cả hai cuộc kháng chiến đều là các cuộc chiến tranh giải phóng dân tộc và bảo vệ Tổ quốc.
+    => Đáp án đúng là D. ",C
+history-2021-302-37,D,multiple_choice,12.0,"['Từ khởi nghĩa từng phần phát triển lên chiến tranh cách mạng.', 'Là các cuộc chiến tranh giải phóng dân tộc và bảo vệ Tổ quốc.', 'Có sự kết hợp chặt chẽ giữa hậu phương và tiền tuyến.', 'Mang tính chất cách mạng dân tộc dân chủ nhân dân.']","Cuộc kháng chiến chống Mĩ, cứu nước (1954-1975) và cuộc vận động giải phóng dân tộc (1939-1945) ở Việt Nam có điểm giống nhau nào sau đây?",,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Cả hai cuộc kháng chiến đều có mục tiêu chung là giải phóng dân tộc, bảo vệ Tổ quốc.
+    - Cả hai cuộc kháng chiến đều có sự kết hợp chặt chẽ giữa hậu phương và tiền tuyến.
+    => Đáp án đúng là B. ",C
+history-2023-302-8,A,multiple_choice,12.0,"['Bãi Sậy', 'Vĩnh Thạnh', 'Ba Tơ', 'Trà Bồng']",Cuộc khởi nghĩa nào sau đây nằm trong phong trào Cần vương chống Pháp cuối thế kỉ XIX ở Việt Nam?,1.0,,,,Trắc Nghiệm/Nội dung Ngắn,"   Lập luận:
+    - Phong trào Cần vương chống Pháp cuối thế kỉ XIX ở Việt Nam có nhiều cuộc khởi nghĩa.
+    - Bãi Sậy, Vĩnh Thạnh, Ba Tơ và Trà Bồng là các cuộc khởi nghĩa trong phong trào Cần vương.
+    => Đáp án đúng là A. ",A
+history-2021-302-40,C,multiple_choice,12.0,"['Bước đầu thành lập được các hội Cứu quốc ở một số địa phương.', 'Trực tiếp ngăn chặn quân phiệt Nhật Bản tiến vào Đông Dương.', 'Nằm trong tiến trình giải phóng dân tộc do Đảng Cộng sản lãnh đạo.', 'Có sự kết hợp chặt chẽ giữa đấu tranh chính trị với đấu tranh vũ trang.']",Cuộc vận động dân chủ 1936-1939 ở Việt Nam là phong trào cách mạng vì một trong những lí do nào sau đây?,,1.0,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - Cuộc vận động dân chủ 1936-1939 là phong trào cách mạng do Đảng Cộng sản lãnh đạo.
+    - Mục tiêu chính của phong trào là đòi tự do, dân chủ, cơm áo và hòa bình.
+    - Phong trào có sự kết hợp giữa đấu tranh chính trị và đấu tranh vũ trang.
+    => Đáp án đúng là C. ",C
+history-2021-301-38,B,multiple_choice,12.0,"['Bước đầu thành lập được các hội Cứu quốc ở một số địa phương.', 'Là bước chuẩn bị cho thắng lợi của cách mạng giải phóng dân tộc.', 'Trực tiếp ngăn chặn quân phiệt Nhật Bản tiến vào Đông Dương.', 'Có sự kết hợp chặt chẽ đấu tranh chính trị với đấu tranh vũ trang.']",Cuộc vận động dân chủ 1936-1939 ở Việt Nam là phong trào cách mạng vì một trong những lí do nào sau đây?,,1.0,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - Cuộc vận động dân chủ 1936-1939 là phong trào cách mạng do Đảng Cộng sản Việt Nam lãnh đạo.
+    - Mục tiêu chính của phong trào là đòi tự do, dân chủ, cơm áo và hòa bình.
+    - Phong trào đã góp phần làm cho chính quyền thực dân Pháp phải nhượng bộ một số yêu sách của nhân dân Việt Nam.
+    - Tuy nhiên, phong trào chưa đạt được mục tiêu",
+history-2021-304-32,C,multiple_choice,12.0,"['Trực tiếp ngăn chặn quân phiệt Nhật Bản tiến vào Đông Dương.', 'Bước đầu thành lập được các hội Cứu quốc ở một số địa phương.', 'Là một bước thắng lợi để tiến lên hoàn thành giải phóng dân tộc.', 'Có sự kết hợp chặt chẽ đấu tranh chính trị với đấu tranh vũ trang.']",Cuộc vận động dân chủ 1936-1939 ở Việt Nam là phong trào cách mạng vì một trong những lí do nào sau đây?,,1.0,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - Cuộc vận động dân chủ 1936-1939 là phong trào cách mạng do Đảng Cộng sản Việt Nam lãnh đạo.
+    - Mục tiêu chính của phong trào là đòi tự do, dân chủ, cơm áo và hòa bình.
+    - Tuy nhiên, phong trào cũng có ý nghĩa quan trọng trong việc xây dựng lực lượng chính trị và căn cứ địa cách mạng, chuẩn bị cho Tổng khởi nghĩa tháng Tám năm 19",
+history-2021-303-31,D,multiple_choice,12.0,"['Có sự kết hợp chặt chẽ đấu tranh chính trị với đấu tranh vũ trang.', 'Trực tiếp ngăn chặn quân phiệt Nhật Bản tiến vào Đông Dương.', 'Bước đầu thành lập được các hội Cứu quốc ở một số địa phương.', 'Thực hiện mục tiêu trước mắt để hướng tới mục tiêu chiến lược.']",Cuộc vận động dân chủ 1936-1939 ở Việt Nam là phong trào cách mạng vì một trong những lí do nào sau đây?,,1.0,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - Cuộc vận động dân chủ 1936-1939 là phong trào cách mạng do Đảng Cộng sản Việt Nam lãnh đạo.
+    - Mục tiêu trước mắt của phong trào là đòi tự do, dân sinh, dân chủ, cải thiện đời sống cho nhân dân.
+    - Mục tiêu chiến lược là đánh đổ đế quốc Pháp, phong kiến, thực hiện độc lập dân tộc và người cày có ruộng.
+    => Đáp án đúng",
+history-2022-302-26,D,multiple_choice,12.0,"['Anh', 'Đức', 'Pháp', 'Việt Nam.']",Cách mạng tháng Mười Nga năm 1917 tác động đến phong trào giải phóng dân tộc ở quốc gia nào sau đây?,1.0,,,,Trắc Nghiệm/Nội dung Ngắn,"   Lập luận:
+    - Cách mạng tháng Mười Nga năm 1917 đã tác động sâu sắc đến phong trào giải phóng dân tộc ở nhiều nước thuộc địa, trong đó có Việt Nam.
+    - Các nước Anh, Đức, Pháp không bị ảnh hưởng trực tiếp bởi Cách mạng tháng Mười Nga.
+    => Đáp án đúng là D. ",A
+history-2023-304-23,B,multiple_choice,12.0,"['để lại kinh nghiệm trong cải cách kinh tế, xã hội ở châu Á.', 'mở ra một thời đại mới trong lịch sử nước Nga và thế giới.', 'góp phần vào chiến thắng chống chủ nghĩa thực dân kiểu mới.', 'chấm dứt chế độ phân biệt chủng tộc trên toàn thế giới.']",Cách mạng tháng Mười năm 1917 ở nước Nga thắng lợi đã,,1.0,,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cách mạng tháng Mười năm 1917 ở nước Nga thắng lợi đã dẫn đến việc thành lập Liên bang Xô Viết, đánh dấu một bước ngoặt trong lịch sử nước Nga.
+    - Sự kiện này cũng có ảnh hưởng lớn đến tình hình chính trị thế giới, mở ra một thời đại mới trong lịch sử nước Nga và thế giới.
+    => Đáp án đúng là B. ",A
+history-2022-303-39,D,multiple_choice,12.0,"['có nhiệm vụ chống đế quốc, phong kiến để đòi tự do dân chủ.', 'chịu tác động bởi sự đối đầu giữa hai hệ thống xã hội đối lập.', 'xóa bỏ áp bức của chủ nghĩa thực dân mới,', 'thành lập được chính quyền dân chủ nhân dân.']",Cách mạng tháng Tám năm 1945 ở Việt Nam và Cách mạng Cuba năm 1959 đều,,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Cả hai cuộc cách mạng đều nhằm mục tiêu chống đế quốc, phong kiến để đòi tự do dân chủ.
+    - Cách mạng tháng Tám năm 1945 ở Việt Nam nhằm xóa bỏ ách thống trị của thực dân Pháp, còn Cách mạng Cuba năm 1959 nhằm xóa bỏ ách thống trị của chủ nghĩa thực dân mới.
+    => Đáp án đúng là A. ",A
+history-2022-301-39,C,multiple_choice,12.0,"['chịu tác động bởi sự đối đầu giữa hai hệ thống xã hội đối lập.', 'có nhiệm vụ chống đế quốc, phong kiến để đòi tự do dân chủ.', 'được lãnh đạo bởi những lực lượng xã hội tiên tiến.', 'xóa bỏ được ách áp bức của chủ nghĩa thực dân mới.']",Cách mạng tháng Tám năm 1945 ở Việt Nam và Cách mạng Cuba năm 1959 đều,,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Cả hai cuộc cách mạng đều diễn ra trong bối cảnh đối đầu giữa hai hệ thống xã hội đối lập.
+    - Cách mạng tháng Tám nhằm đánh đổ đế quốc, phong kiến, giành chính quyền, còn Cách mạng Cuba nhằm lật đổ chế độ độc tài Batista.
+    => Đáp án đúng là A. ",A
+history-2024-304-40,D,multiple_choice,12.0,"['Giai cấp bóc lột không thể là lực lượng cách mạng.', 'Liên minh công – nông là lực lượng lãnh đạo cách mạng.', 'Sự cần thiết phải liên minh với tư sản và đại địa chủ.', 'Quan điểm đại đoàn kết dân tộc của Nguyễn Ái Quốc.']","Cương lĩnh chính trị (đầu năm 1930) của Đảng Cộng sản Việt Nam do Nguyễn Ái Quốc soạn
+thảo xác định: “Lực lượng cách mạng là công nhân, nông dân, tiểu tư sản, trí thức; còn phú nông,
+trung, tiểu địa chủ và tư sản thì lợi dụng hoặc trung lập,...” (Lịch sử 12, NXB Giáo dục Việt Nam,
+2020, tr. 88).
+Đoạn tư liệu phản ánh nội dung nào sau đây?",,,,1.0,Đánh giá,"giữa giai cấp công nhân và nông dân.
+D. Giai cấp nông dân là lực lượng đông đảo nhất trong xã hội.
+
+    Answer: [C]
+    Lập luận:
+    - Cương lĩnh chính trị xác định lực lượng cách mạng là công nhân, nông dân, tiểu tư sản, trí thức.
+    - Cương lĩnh cũng chỉ rõ sự cần thiết phải liên minh giữa giai cấp công nhân và nông dân.
+    => Đáp án đúng là C. ",C
+history-2024-303-32,B,multiple_choice,12.0,"['Lấy nhiệm vụ dân chủ làm nền tảng để giải quyết nhiệm vụ dân tộc.', 'Giải quyết hài hòa mối quan hệ giữa vấn đề dân tộc và vấn đề giai cấp.', 'Xác định các tầng lớp của giai cấp bóc lột đều là kẻ thù của cách mạng.', 'Tiến hành đồng thời cách mạng phản đế và cách mạng điền địa.']","Cương lĩnh chính trị (đầu năm 1930) của Đảng Cộng sản Việt Nam do Nguyễn Ái Quốc soạn thảo xác định: “Nhiệm vụ của cách mạng là đánh đổ đế quốc Pháp, bọn phong kiến và tư sản phản cách mạng, làm cho nước Việt Nam được độc lập tự do ...; tịch thu hết sản nghiệp lớn của đế quốc; tịch thu ruộng đất của đế quốc và bọn phản cách mạng chia cho dân cày nghèo, tiến hành cách mạng ruộng đất v.v..” (Lịch sử 12, NXB Giáo dục Việt Nam, 2020, tr. 88). Đoạn tư liệu phản ánh đúng quan điểm nào sau đây của Nguyễn Ái Quốc?",,,,1.0,Đánh giá,"giải phóng dân tộc làm trung tâm. B. Lấy nhiệm vụ giải phóng giai cấp làm trung tâm. C. Lấy nhiệm vụ giải phóng giai cấp làm trung tâm. D. Lấy nhiệm vụ giải phóng dân tộc làm trung tâm.
+
+    Answer: [A]
+    Lập luận:
+    - Cương lĩnh chính trị xác định nhiệm vụ đánh đổ đế quốc, phong kiến và tư sản phản cách mạng, làm cho nước Việt Nam được độc lập tự do.
+    - Nhiệm",A
+history-2023-301-40,D,multiple_choice,12.0,"['Khẳng định liên minh công-nông là động lực chính của cách mạng.', 'Xác định quyền lãnh đạo cách mạng thuộc về giai cấp công nhân.', 'Xác định cách mạng Việt Nam là một bộ phận của cách mạng thế giới.', 'Giải quyết hợp lí mối quan hệ giữa vấn đề dân tộc và vấn đề giai cấp.']",Cương lĩnh chính trị của Đảng Cộng sản Việt Nam do Nguyễn Ái Quốc soạn thảo (năm 1930) được nhận xét là một cương lĩnh cách mạng giải phóng dân tộc sáng tạo dựa trên cơ sở nào sau đây?,,,1.0,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cương lĩnh xác định cách mạng Việt Nam là một bộ phận của cách mạng vô sản thế giới.
+    - Cương lĩnh giải quyết mối quan hệ giữa vấn đề dân tộc và vấn đề giai cấp, xác định cách mạng Việt Nam là một bộ phận của cách mạng vô sản thế giới.
+    => Đáp án đúng là D. ",D
+history-2023-302-29,C,multiple_choice,12.0,"['lấy phát triển kinh tế công nghiệp làm trung tâm.', 'áp dụng thành tựu khoa học kĩ thuật vào sản xuất.', 'liên lạc với các dân tộc bị áp bức và vô sản thế giới.', 'chủ động hội nhập quốc tế để phát triển kinh tế.']",Cương lĩnh chính trị đầu tiên (năm 1930) của Đảng Cộng sản Việt Nam xác định cách mạng Việt Nam cần,,,1.0,,Đánh giá,"   Lập luận:
+    - Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam xác định cách mạng Việt Nam cần tiến hành ""tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản"".
+    - Cương lĩnh nhấn mạnh liên lạc với các dân tộc bị áp bức và vô sản thế giới, phù hợp với mục tiêu của Quốc tế Cộng sản.
+    => Đáp án đúng là C. ",C
+history-2022-302-24,A,multiple_choice,12.0,"['Giai cấp tư sản ra đời.', 'Công nghiệp vũ trụ ra đời', 'Trở thành siêu cường tài chính.', 'Trở thành cường quốc phần mềm.']","Dưới tác động của cuộc khai thác thuộc địa lần thứ hai do thực dân Pháp tiến hành ở Đông Dương (1919-1929), xã hội Việt Nam có chuyển biến nào sau đây?",,1.0,,,Kết quả / Ý nghĩa / Vai trò,"   Lập luận:
+    - Cuộc khai thác thuộc địa lần thứ hai của Pháp đã có tác động sâu sắc đến xã hội Việt Nam.
+    - Giai cấp tư sản và công nghiệp vũ trụ không xuất hiện trong giai đoạn này.
+    - Việt Nam chưa trở thành siêu cường tài chính hay cường quốc phần mềm trong giai đoạn này.
+    => Đáp án đúng là A. ",A
+history-2020-303-22,C,multiple_choice,12.0,"['trật tự hai cực Ianta đã sụp đổ hoàn toàn.', 'Việt Nam đã kết thúc cuộc kháng chiến chống Mĩ.', 'Khối thị trường chung châu Âu đang có nhiều khởi sắc.', 'Liên Xô và Mĩ đã tuyên bố chấm dứt Chiến tranh lạnh.']",Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập năm 1967 trong bối cảnh,1.0,,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - ASEAN được thành lập trong bối cảnh Chiến tranh Lạnh đang diễn ra.
+    - Hiệp định Paris về Việt Nam được ký kết năm 1973, kết thúc sự tham chiến của quân đội Mĩ.
+    - Hiệp định Paris về Việt Nam được ký kết năm 1973, kết thúc sự tham chiến của quân đội Mĩ.
+    - Hiệp định Paris về Việt Nam được ký kết năm 197",A
+history-2020-304-22,A,multiple_choice,12.0,"['nhiều nước ở Đông Nam Á đã giành được độc lập', 'Việt Nam đã kết thúc cuộc kháng chiến chống Mĩ', 'Liên Xô và Mĩ đã tuyên bố chấm dứt Chiến tranh lạnh', 'trật tự hai cực Ianta đã sụp đổ hoàn toàn']",Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập năm 1967 trong bối cảnh,1.0,,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - ASEAN được thành lập trong bối cảnh nhiều nước ở Đông Nam Á đã giành được độc lập.
+    - Việt Nam kết thúc cuộc kháng chiến chống Mĩ năm 1975, nhưng ASEAN được thành lập năm 1967.
+    - Liên Xô và Mĩ tuyên bố chấm dứt Chiến tranh lạnh năm 1991, nhưng ASEAN được thành lập năm 1967.
+   ",
+history-2020-302-28,A,multiple_choice,12.0,"['cuộc cách mạng khoa học kĩ thuật hiện đại diễn ra mạnh mẽ.', 'Việt Nam đã kết thúc cuộc kháng chiến chống Mĩ.', 'trật tự hai cực Ianta đã sụp đổ hoàn toàn.', 'Liên Xô và Mĩ đã tuyên bố chấm dứt Chiến tranh lạnh.']",Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập năm 1967 trong bối cảnh,1.0,,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - ASEAN được thành lập trong bối cảnh Chiến tranh Lạnh đang diễn ra.
+    - Các phương án A, C và D đều liên quan đến sự kết thúc của Chiến tranh Lạnh, không phù hợp với bối cảnh thành lập ASEAN.
+    - Phương án B liên quan đến Việt Nam, nhưng không liên quan trực tiếp đến bối cảnh thành lập ASEAN.
+    => Đáp án đúng là B. ",A
+history-2020-301-27,B,multiple_choice,12.0,"['Liên Xô và Mĩ đã tuyên bố chấm dứt Chiến tranh lạnh.', 'một số tổ chức hợp tác mang tính khu vực đã ra đời.', 'Việt Nam đã kết thúc cuộc kháng chiến chống Mĩ.', 'trật tự hai cực Ianta đã sụp đổ hoàn toàn.']",Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập năm 1967 trong bối cảnh,1.0,,,,Bối cảnh/Nguyên nhân,"   Lập luận:
+    - ASEAN được thành lập trong bối cảnh Chiến tranh Lạnh đang diễn ra.
+    - Liên Xô và Mĩ tuyên bố chấm dứt Chiến tranh Lạnh năm 1991, sau khi ASEAN được thành lập.
+    => Đáp án đúng là A. ",A
+history-2023-301-31,A,multiple_choice,12.0,"['Nằm trong tiến trình giành thắng lợi từng bước để đi đến thắng lợi hoàn toàn.', 'Đều phản ánh thiện chí hòa bình của các bên tham gia kí kết hiệp định.', 'Là văn bản pháp lí ghi nhận đầy đủ các quyền dân tộc cơ bản của Việt Nam.', 'Là kết quả của những trận quyết chiến chiến lược trên mặt trận quân sự.']",Hiệp định Sơ bộ (6-3-1946) và Hiệp định Giơnevơ (21-7-1954) về Đông Dương có điểm chung nào sau đây?,,,1.0,,"So sánh, đối chiếu","   Lập luận:
+    - Hiệp định Sơ bộ và Hiệp định Giơnevơ đều là kết quả của những cuộc đàm phán giữa Việt Nam và các nước lớn.
+    - Cả hai hiệp định đều phản ánh thiện chí hòa bình của các bên tham gia kí kết.
+    => Đáp án đúng là B. ",B
+history-2022-303-26,B,multiple_choice,12.0,"['Truyền bá chủ nghĩa Mác-Lênin cho công nhân,', 'Đấu tranh đòi thực dân Anh rút về nước.', 'Đưa hội viên vào các nhà máy để hoạt động.', 'Đưa hội viên vào các đồn điền để hoạt động.']",Hoạt động nào sau đây không diễn ra trong phong trào vô sản hóa của Hội Việt Nam Cách mạng Thanh niên (1928)?,,1.0,,,Sự kiện / Hoạt động,"   Lập luận:
+    - Phong trào vô sản hóa là hoạt động đưa hội viên vào các nhà máy, hầm mỏ, đồn điền để hoạt động.
+    - Các hoạt động khác như truyền bá chủ nghĩa Mác-Lênin, đấu tranh đòi thực dân Anh rút về nước, đưa hội viên vào các đồn điền để hoạt động đều diễn ra trong phong trào vô sản hóa.
+    => Đáp án đúng là B. ",A
+history-2020-304-12,B,multiple_choice,12.0,"['Phát động nhân dân tổng khởi nghĩa.', 'Mở các lớp đào tạo cán bộ cách mạng.', 'Tổ chức ám sát trùm mộ phu Badanh.', 'Phát động khởi nghĩa Yên Bái.']",Hội Việt Nam Cách mạng Thanh niên (1925-1929) có hoạt động nào sau đây?,1.0,,,,Sự kiện / Hoạt động,"   Lập luận:
+    - Hội Việt Nam Cách mạng Thanh niên là tổ chức tiền thân của Đảng Cộng sản Việt Nam.
+    - Các hoạt động của Hội tập trung vào việc đào tạo cán bộ cách mạng, chuẩn bị cho sự ra đời của Đảng.
+    => Đáp án đúng là B. ",B
+history-2020-303-10,C,multiple_choice,12.0,"['Tổ chức ám sát trùm mộ phu Badanh.', 'Phát động khởi nghĩa Yên Bái.', 'Phát động phong trào “vô sản hóa”.', 'Phát động nhân dân tổng khởi nghĩa.']",Hội Việt Nam Cách mạng Thanh niên (1925-1929) có hoạt động nào sau đây?,1.0,,,,Sự kiện / Hoạt động,"   Lập luận:
+    - Hội Việt Nam Cách mạng Thanh niên là tổ chức tiền thân của Đảng Cộng sản Việt Nam.
+    - Trong giai đoạn 1925-1929, Hội chủ yếu hoạt động tuyên truyền, giáo dục, huấn luyện, tổ chức thanh niên.
+    - Các hoạt động vũ trang như ám sát, khởi nghĩa không phù hợp với mục tiêu và phương pháp của Hội.
+    => Đáp án đúng là C. ",C
