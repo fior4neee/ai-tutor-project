@@ -13,7 +13,9 @@ This is the repository behind our submission in the SOICT2025 conference. Here y
 ## Accuracy of all 25 models
 
 <img width="1704" height="351" alt="bslne_0shot_5shot" src="https://github.com/user-attachments/assets/d76225a1-e19d-4c2e-a860-6e90b49eb461" />
+
 ---
+
 Models ranked by CoT Benefit - how much they gained/lost from ZeroshotCoT
 <img width="890" height="284" alt="cot_benefit" src="https://github.com/user-attachments/assets/0ff828e7-1be9-4d8d-b31c-83e433d09cf2" />
 
