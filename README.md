@@ -9,6 +9,7 @@ This is the repository behind our submission in the SOICT2025 conference. Here y
 - The 'Figures' folder contains any illustrative table or chart from our experiments, as well as the mcq_accuracies Excel file, detailing the accuracy of all 25 SLMs on 3 prompting types, stratified by difficulty and category.
 
 # Performance on Multiple-Choice Questions
+<img width="1704" height="351" alt="bslne_0shot_5shot" src="https://github.com/user-attachments/assets/d76225a1-e19d-4c2e-a860-6e90b49eb461" />
 
 # LLM Judge Performance Analysis: Essay Questions
 
