@@ -1,8 +1,18 @@
+# SOICT2025 Submission 3654: Comprehensive Assessment of SLM Performance on Vietnamese High School History Tasks
+
+This is the repository behind our submission in the SOICT2025 conference. Here you will find charts, figures and summary tables behind the key findings we made in our experiment which had to be omitted to fit SOICT's 11 page requirement.
+
+- The Dataset folder contains our multiple-choice dataset of 560 questions collected from University Entrance Exams from the years 2020-2024, and a guideline as to how we labeled questions by category.
+
+- Baseline/ZeroshotCOT/FewshotCOT Results folders contain the inference from each and every model for each prompting type. It should be noted that the Qwen3-4b model was tested with both enable_thinking=True and enable_thinking=False, and the GPT-OSS-20B model was tested with reasoning_effort set to low.
+
+- The 'Figures' folder contains any illustrative table or chart from our experiments.
+
 # LLM Judge Performance Analysis: Essay Questions
 
 ## Executive Summary
 
-This report presents a comprehensive analysis of Large Language Model (LLM) Judge performance in evaluating Vietnamese history essay responses across multiple evaluation criteria. The analysis compares LLM assessments against human rater judgments to identify areas of strength and limitation.
+Comprehensive analysis of Large Language Model (LLM) Judge performance in evaluating Vietnamese history essay responses across multiple evaluation criteria. The analysis compares LLM assessments against human rater judgments to identify areas of strength and limitation.
 
 ---
 
