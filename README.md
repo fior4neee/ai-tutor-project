@@ -6,7 +6,9 @@ This is the repository behind our submission in the SOICT2025 conference. Here y
 
 - Baseline/ZeroshotCOT/FewshotCOT Results folders contain the inference from each and every model for each prompting type. It should be noted that the Qwen3-4b model was tested with both enable_thinking=True and enable_thinking=False, and the GPT-OSS-20B model was tested with reasoning_effort set to low.
 
-- The 'Figures' folder contains any illustrative table or chart from our experiments.
+- The 'Figures' folder contains any illustrative table or chart from our experiments, as well as the mcq_accuracies Excel file, detailing the accuracy of all 25 SLMs on 3 prompting types, stratified by difficulty and category.
+
+# Performance on Multiple-Choice Questions
 
 # LLM Judge Performance Analysis: Essay Questions
 
